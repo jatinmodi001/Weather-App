@@ -1,0 +1,23 @@
+body{
+    margin:50px auto;
+    background: linear-gradient(to bottom, rgba(0, 132, 255), rgb(113, 182, 247));
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif
+}
+#temperature,#humidity,#speed
+{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#summary
+{    color:white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#location
+{
+    color:white;
+    font-size:50px;
+    font-weight: bold;
+}
