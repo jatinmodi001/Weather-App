@@ -36,7 +36,7 @@ function UpdateTemp(temp,summ,location,speed,hum)
     document.getElementById("location").innerHTML =location;
     document.getElementById("temperature").innerHTML = "Temp : "+temp+' &#176C';
     document.getElementById("summary").innerHTML = summ;
-    document.getElementById("speed").innerHTML = "Speed : "+speed + " Km/h";
+    document.getElementById("speed").innerHTML = "Wind : "+speed + " Km/h";
     document.getElementById("humidity").innerHTML = "Humidity : "+(hum*100)+"%";
 }
 function setIcons(icon)
