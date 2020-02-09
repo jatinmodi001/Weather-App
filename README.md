@@ -1,4 +1,4 @@
-# Weather App
+# [Weather App](https://jatinmodi001.github.io/Weather-App/)
 A simple weather that uses current location of user and gives temperature, humidity, windspeed
 
 API used : DarkSky
